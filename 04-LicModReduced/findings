@@ -1,0 +1,47 @@
+findings
+Apache-2:
+ -- "Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ -- prepare Derivative Works of,  && and such Derivative Works 
+ -- or Derivative Works thereof  , with or 
+ -- or Derivative Works 
+ -- Derivative, 
+ -- Derivative Works
+ -- within Derivative Works
+BSD-1-Clause:
+ -- and use 
+BSD-2-FreeBSD: 
+ -- , this list of conditions 
+BSD-2-Clause:
+ -- and binary 
+BSD-3-Nuclear:
+ -- and the following disclaimer
+BSD-3-Clause:
+ --         * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+BSD-4:
+ -- and use  && source and && with or 
+CC-BY-NC-SA-4.0: 
+ -- irrevocable
+ -- not && do not 
+GFDL-1.3:
+ -- free
+ -- free
+ -- 
+GPL-1:
+ --        c) accompany it with the information you received as to where the corresponding source code may be obtained. (This alternative is allowed only for noncommercial distribution and only if you received the program in object code or executable form alone.)
+ --  Source code for a work means the preferred form of the work for making modifications to it. For an executable file, complete source code means all the source code for all modules it contains; but, as a special exception, it need not include source code for modules which are standard libraries that accompany the operating system on which the executable file runs, or for standard header files or definitions files that accompany that operating system.
+GPL-2:
+ -- (or a work based on it, under Section 2)
+ --  (in either source or binary form)
+GPL3+:
+ -- Later license versions may give you additional or different permissions. However, no additional obligations are imposed on any author or copyright holder as a result of your choosing to follow a later version.
+JSON:
+ -- The Software shall be used for Good, not Evil.
+LGPL-3.0-only:
+ -- b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+MIT-0:
+ -- free of charge,
+ -- use, copy, modify, merge, 
+MIT:
+ -- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -9,5 +9,15 @@ Thank you
 
 All contributions will be made under CC-0.
 
+## Directories
+ * 01 - PlainLictxt-ext - contains license textes with additional license holder information
+ * 02 - LicUndercover - conatins licenses that run under fake flags, eg. GPL-1.1 claiming GPL or GPL-2.0
+ * 03 - LicModAddons - contains samples with additional clauses
+ * 04 - LicModReduced - contains samples with some clauses removed
+ * 05 - LicModCombined - contains samples with both clauses removed and clauses added
+ * 10 - LicComb - contains components with different licenses
+ * 11 - LicCombUnfit - contains components with licenses that do not fit together 
+
+
 TODOS:
 - provide committer agreement
